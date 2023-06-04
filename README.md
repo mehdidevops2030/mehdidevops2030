@@ -14,7 +14,7 @@
 #####-  💞️ I’m looking to collaborate on devops project .
 #####- 📫 How to reach me --- mehdipasha20@gmail.com
 
-#####   Get in touch 
+****   Get in touch 
 ------------
 
 https://www.linkedin.com/in/mehdi-pasha-41826827/
