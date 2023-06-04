@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehdi pasha
 
-Hi there i am Mehdi Pasha
+
 I am Sr.Computer Enginner at Atheeb Intergraph saudi company .
 
 - 👀 I’m interested in learning new tech .
