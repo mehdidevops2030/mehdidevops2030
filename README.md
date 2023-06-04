@@ -4,17 +4,17 @@
 ##### - 👋 Hi, I’m @mehdi pasha
 
 
-##### I am Sr.Computer Enginner at Atheeb Intergraph saudi company .
+#####  I am Sr.Computer Enginner at Atheeb Intergraph saudi company .
 
-##### - 👀 I’m interested in learning new tech .
-#####  Like Devops tools jenkin,python,ci/cd,docker,kubernates,IAAC,SRE.
+#####  -  👀 I’m interested in learning new tech .
+#####   Like Devops tools jenkin,python,ci/cd,docker,kubernates,IAAC,SRE.
 
-#####- 🌱 I’m currently learning devops
+#####-  🌱 I’m currently learning devops
 
-#####- 💞️ I’m looking to collaborate on devops project .
+#####-  💞️ I’m looking to collaborate on devops project .
 #####- 📫 How to reach me --- mehdipasha20@gmail.com
 
-##### Get in touch 
+#####   Get in touch 
 ------------
 
 https://www.linkedin.com/in/mehdi-pasha-41826827/
